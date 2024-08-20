@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
 import { FaEllipsisV, FaFileInvoiceDollar } from "react-icons/fa";
 import { IoMdArrowRoundUp } from "react-icons/io";
-import Pagination from "../../Components/Common/Pagination";
+import Pagination from "../Common/Pagination";
 import { IoClose } from "react-icons/io5";
 import { RiGalleryUploadLine } from "react-icons/ri";
 
